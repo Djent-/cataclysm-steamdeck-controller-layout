@@ -7,9 +7,9 @@ The biggest issue is remembering what all the controls in the different action s
 # Links
 I don't know how to actually access these outside of naming your Cataclysm non-Steam game correctly and looking in the Community Layouts.
 
-workshop://3171800800
+workshop://3171855335
 
-steam://controllerconfig/3708161605/3171800800
+steam://controllerconfig/3708161605/3171855335
 
 # Action Set 1 (Default)
 ## Default Layer
