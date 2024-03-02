@@ -110,7 +110,7 @@ For interacting with your Cataclysm launcher. R5 is the back lower-right grip bu
 |`Shift-,`|Stairs are the default option in the Action menu `Enter-Enter`|
 |`Shift-.`|Stairs are the default option in the Action menu `Enter-Enter`|
 |`5`|Use L2 for `g`etting underneath you, or Steam+X for OSK|
-|`$`|Probably the Action menu|
-|`\|`|Probably the Action menu|
+|`$`|Action menu -> Misc -> Sleep|
+|`\|`|Action menu -> Misc -> Wait|
 |`Shift-v`|Action menu -> Look -> List Items|
-|`Shift-c`|Action menu|
+|`Shift-c`|Action menu -> Interact -> Chat with NPC|
