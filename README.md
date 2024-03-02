@@ -1,4 +1,4 @@
-# Cataclysm: Dark Days Ahead Controller Layout v3.0
+# Cataclysm: Dark Days Ahead Controller Layout v3.1
 
 Designed for the Steam Deck
 
@@ -10,7 +10,7 @@ Used primarily for movement and UI interaction
 
 | Button | Key | Function |
 |-|-|-|
-|A|Enter|UI Accept, Action Menu|
+|A|Enter|UI Accept, Action menu|
 |B|Escape|UI Cancel, Main menu|
 |X|e|Examine|
 |Y|x|Look around|
@@ -35,8 +35,8 @@ Used primarily for movement and UI interaction
 |R2 (Trigger)|`f`|Fire|
 |L3||
 |R3||
-|L4||
-|R4||
+|L4|||
+|R4|||
 |L5|||
 |R5|Action layer set|Activate Mouse layer|
 
@@ -68,6 +68,9 @@ Items Radial Menu (Right stick) (Type: Release)
 |w|Wield|
 |W|Wear|
 |Shift-7|Craft
+|r|Reload|
+|Shift-u|Unload|
+|a|Activate|
 
 Movement Touch Menu  (Type: Release)
 | Key | Function |
@@ -93,3 +96,13 @@ For interacting with your Cataclysm launcher. R5 is the back lower-right grip bu
 | Button | Key | Function |
 |-|-|-|
 |R5|Action layer unset|Deactivate Mouse layer|
+
+# Things Without Keybinds
+
+|Action|Description|
+|-|-|
+|Ascend Stairs|Accessible from the Action menu `Enter-Enter`|
+|Descend Stairs|Accessible from the Action menu `Enter-Enter`|
+|`5`|Use L3 for `g`etting underneath you, don't change `/` advanced inventory slots|
+|`E`|Eat from your inventory|
+
