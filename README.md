@@ -37,7 +37,7 @@ Used primarily for movement and UI interaction
 |-|-|-|
 |L1 (Bumper)|`Shift-Tab`|UI Prev|
 |R1 (Bumper)|`Tab`|UI Next|
-|L2 (Trigger)|`,`|Steady Aim|
+|L2 (Trigger)|`.`|Steady Aim|
 |R2 (Trigger)|`f`|Fire|
 |L3||
 |R3||
@@ -109,7 +109,7 @@ For interacting with your Cataclysm launcher. R5 is the back lower-right grip bu
 |-|-|
 |`Shift-,`|Stairs are the default option in the Action menu `Enter-Enter`|
 |`Shift-.`|Stairs are the default option in the Action menu `Enter-Enter`|
-|`5`|Use L4 for `g`etting underneath you, or Steam+X for OSK|
+|`5`|Use L2 for `g`etting underneath you, or Steam+X for OSK|
 |`$`|Probably the Action menu|
 |`\|`|Probably the Action menu|
 |`Shift-v`|Action menu -> Look -> List Items|
