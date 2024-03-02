@@ -1,4 +1,4 @@
-# Cataclysm: Dark Days Ahead Controller Layout v4.0
+# Cataclysm: Dark Days Ahead Controller Layout v4.1
 
 Designed for the Steam Deck
 
@@ -42,9 +42,9 @@ Used primarily for movement and UI interaction
 |R2 (Trigger)|`f`|Fire|
 |L3||
 |R3||
-|L4|||
-|R4|||
-|L5|||
+|L4|Shift-e|Eat|
+|R4|m|Map|
+|L5|'|Ignore Enemy|
 |R5|Action layer set|Activate Mouse layer|
 
 |Pad|Behavior|
@@ -111,6 +111,6 @@ For interacting with your Cataclysm launcher. R5 is the back lower-right grip bu
 |Ascend Stairs|Accessible from the Action menu `Enter-Enter`|
 |Descend Stairs|Accessible from the Action menu `Enter-Enter`|
 |`5`|Use L3 for `g`etting underneath you, don't change `/` advanced inventory slots|
-|`E`|Eat from your inventory|
 |`$`|Probably the Action menu|
 |`\|`|Probably the Action menu|
+|Shift-v|Action menu -> Look -> List Items|
