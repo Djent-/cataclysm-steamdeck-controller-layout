@@ -1,8 +1,15 @@
-# Cataclysm: Dark Days Ahead Controller Layout v3.1
+# Cataclysm: Dark Days Ahead Controller Layout v4.0
 
 Designed for the Steam Deck
 
 The biggest issue is remembering what all the controls in the different action sets do. Using virtual menus with named commands and icons is a way to remove memory from the controls
+
+# Links
+I don't know how to actually access these outside of naming your Cataclysm non-Steam game correctly and looking in the Community Layouts.
+
+workshop://3171800800
+
+steam://controllerconfig/3708161605/3171800800
 
 # Action Set 1 (Default)
 ## Default Layer
@@ -105,4 +112,5 @@ For interacting with your Cataclysm launcher. R5 is the back lower-right grip bu
 |Descend Stairs|Accessible from the Action menu `Enter-Enter`|
 |`5`|Use L3 for `g`etting underneath you, don't change `/` advanced inventory slots|
 |`E`|Eat from your inventory|
-
+|`$`|Probably the Action menu|
+|`\|`|Probably the Action menu|
