@@ -1,5 +1,4 @@
 # Cataclysm: Dark Days Ahead Controller Layout v4.1
-
 Designed for the Steam Deck
 
 The biggest issue is remembering what all the controls in the different action sets do. Using virtual menus with named commands and icons is a way to remove memory from the controls
@@ -17,34 +16,34 @@ Used primarily for movement and UI interaction
 
 | Button | Key | Function |
 |-|-|-|
-|A|Enter|UI Accept, Action menu|
-|B|Escape|UI Cancel, Main menu|
-|X|e|Examine|
-|Y|x|Look around|
+|A|`Enter`|UI Accept, Action menu|
+|B|`Escape`|UI Cancel, Main menu|
+|X|`e`|Examine|
+|Y|`x`|Look around|
 
 | Button | Key | Function |
 |-|-|-|
-|DPAD Up|Up||
-|DPAD Down|Down||
-|DPAD Left|Left||
-|DPAD Right|Right||
+|DPAD Up|`Up`||
+|DPAD Down|`Down`||
+|DPAD Left|`Left`||
+|DPAD Right|`Right`||
 
 | Button | Key | Function |
 |-|-|-|
-|Start|i|Inventory|
-|Select|Shift-2|Player Info|
+|Start|`i`|Inventory|
+|Select|`Shift-2`|Player Info|
 
 | Button | Key | Function |
 |-|-|-|
-|L1 (Bumper)|Shift-Tab|UI Prev|
-|R1 (Bumper)|Tab|UI Next|
+|L1 (Bumper)|`Shift-Tab`|UI Prev|
+|R1 (Bumper)|`Tab`|UI Next|
 |L2 (Trigger)|`,`|Steady Aim|
 |R2 (Trigger)|`f`|Fire|
 |L3||
 |R3||
-|L4|Shift-e|Eat|
-|R4|m|Map|
-|L5|'|Ignore Enemy|
+|L4|`Shift-e`|Eat|
+|R4|`m`|Map|
+|L5|`'`|Ignore Enemy|
 |R5|Action layer set|Activate Mouse layer|
 
 |Pad|Behavior|
@@ -57,40 +56,40 @@ Used primarily for movement and UI interaction
 Common Radial Menu (Left stick) (Type: Release)
 | Key | Function |
 |-|-|
-|s|Smash|
-|o|Open|
-|c|Close|
-|G|Grab|
+|`s`|Smash|
+|`o`|Open|
+|`c`|Close|
+|`Shift-g`|Grab|
 |`\`|Drag|
-|Shift-'|Movement Speed|
-|Shift-b|Butcher|
-|Shift-6|Control Vehicle|
+|`Shift-'`|Movement Speed|
+|`Shift-b`|Butcher|
+|`Shift-6`|Control Vehicle|
 
 Items Radial Menu (Right stick) (Type: Release)
 | Key | Function |
 |-|-|
-|/|Adv Inventory|
-|g|Get|
-|d|Drop|
-|w|Wield|
-|W|Wear|
-|Shift-7|Craft
-|r|Reload|
-|Shift-u|Unload|
-|a|Activate|
+|`/`|Adv Inventory|
+|`g`|Get|
+|`d`|Drop|
+|`w`|Wield|
+|`Shift-w`|Wear|
+|`Shift-7`|Craft
+|`r`|Reload|
+|`Shift-u`|Unload|
+|`a`|Activate|
 
 Movement Touch Menu  (Type: Release)
 | Key | Function |
 |-|-|
-|7||
-|8||
-|9||
-|4||
+|`7`||
+|`8`||
+|`9`||
+|`4`||
 ||Empty to reserve center button|
-|6||
-|1||
-|2||
-|3||
+|`6`||
+|`1`||
+|`2`||
+|`3`||
 
 ## Mouse Layer
 For interacting with your Cataclysm launcher. R5 is the back lower-right grip button
@@ -108,9 +107,10 @@ For interacting with your Cataclysm launcher. R5 is the back lower-right grip bu
 
 |Action|Description|
 |-|-|
-|Ascend Stairs|Accessible from the Action menu `Enter-Enter`|
-|Descend Stairs|Accessible from the Action menu `Enter-Enter`|
-|`5`|Use L3 for `g`etting underneath you, don't change `/` advanced inventory slots|
+|`Shift-,`|Stairs are the default option in the Action menu `Enter-Enter`|
+|`Shift-.`|Stairs are the default option in the Action menu `Enter-Enter`|
+|`5`|Use L4 for `g`etting underneath you, or Steam+X for OSK|
 |`$`|Probably the Action menu|
 |`\|`|Probably the Action menu|
-|Shift-v|Action menu -> Look -> List Items|
+|`Shift-v`|Action menu -> Look -> List Items|
+|`Shift-c`|Action menu|
