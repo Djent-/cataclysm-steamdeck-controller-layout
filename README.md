@@ -1,4 +1,4 @@
-# Cataclysm: Dark Days Ahead Controller Layout v4.3
+# Cataclysm: Dark Days Ahead Controller Layout v4.3-fix
 Designed for the Steam Deck
 
 The biggest issue is remembering what all the controls in the different action sets do. Using virtual menus with named commands and icons is a way to remove memory from the controls
@@ -9,6 +9,8 @@ I don't know how to actually access these outside of naming your Cataclysm non-S
 workshop://3176454054
 
 steam://controllerconfig/3708161605/3176454054
+
+(4.3-fix doesn't fix the issue - Navigation layer uses Movement menu)
 
 # Action Set 1 (Default)
 ## Default Layer
