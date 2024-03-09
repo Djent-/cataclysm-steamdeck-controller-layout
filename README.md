@@ -137,5 +137,12 @@ Steam+X brings up the on-screen keyboard which can be used to name your characte
 |-|-|
 |`5`|Use L2 for `g`etting underneath you|
 |`$`|Action menu -> Misc -> Sleep|
-|`\|`|Action menu -> Misc -> Wait|
-|`Shift-c`|Action menu -> Interact -> Chat with NPC|
+|`Shift-\`|Action menu -> Misc -> Wait|
+|`Shift-c`|Action menu -> Interact -> `C`hat with NPC|
+|`Shift-m`|Action menu -> Info -> View `M`issions|
+|`Shift-p`|Action menu -> Info -> View Message Log|
+|`b`|Use OSK to `b`atch craft|
+|`r`|Use OSK to `r`epair vehicles|
+|`o`|Use OSK to rem`o`ve from vehicles|
+|`Shift-n`|Use OSK to add map `N`otes|
+|`Shift-w`|Use OSK to auto-`W`alk|
