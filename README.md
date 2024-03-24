@@ -1,4 +1,4 @@
-# Cataclysm: Dark Days Ahead Controller Layout v4.3-fix
+# Cataclysm: Dark Days Ahead Controller Layout v4.4
 Designed for the Steam Deck
 
 The biggest issue is remembering what all the controls in the different action sets do. Using virtual menus with named commands and icons is a way to remove memory from the controls
@@ -6,11 +6,11 @@ The biggest issue is remembering what all the controls in the different action s
 # Links
 I don't know how to actually access these outside of naming your Cataclysm non-Steam game correctly and looking in the Community Layouts.
 
-workshop://3176454054
+workshop://3199568302
 
-steam://controllerconfig/3708161605/3176454054
+steam://controllerconfig/3708161605/3199568302
 
-(4.3-fix doesn't fix the issue - Navigation layer uses Movement menu)
+See also the `.vdf` Controller Layout file in this repo from [Steam Cloud](https://store.steampowered.com/account/remotestorageapp/?appid=241100)
 
 # Action Set 1 (Default)
 ## Default Layer
@@ -118,7 +118,7 @@ For interacting with your crafting menu, other inventories which require scrolli
 |Right Touchpad|Navigation Menu|
 |Right Touchpad Click|Select Button|
 
-Navigation Touch Menu  (Type: Release)
+Navigation Touch Menu  (Type: Release, Button Count: 16 buttons)
 | Key | Function |
 |-|-|
 |`Shift+.`|`>`|
@@ -129,6 +129,8 @@ Navigation Touch Menu  (Type: Release)
 |`-`|`-`|
 |`[`|`[`|
 |`Page Down`|`Page Down`|
+
+(SW arrow shows up as 9th button due to a Steam bug)
 
 # Things Without Keybinds
 Steam+X brings up the on-screen keyboard which can be used to name your character, add notes to the map, etc.
@@ -146,3 +148,4 @@ Steam+X brings up the on-screen keyboard which can be used to name your characte
 |`o`|Use OSK to rem`o`ve from vehicles|
 |`Shift-n`|Use OSK to add map `N`otes|
 |`Shift-w`|Use OSK to auto-`W`alk|
+|`z` and `Z`|Action menu -> Misc -> `Z`oom (in\|out)|
